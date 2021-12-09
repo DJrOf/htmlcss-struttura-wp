@@ -1,0 +1,60 @@
+header {
+    height: 80px;
+    background-color: pink;
+    margin: 50px;
+}
+
+.seca {
+    height: 240px;
+    background-color: orange;
+    margin: 50px;
+}
+
+.secb {
+    height: 400px;
+    background-color: blue;
+    margin: 50px;
+    
+
+}
+
+nav {
+    height: 80px;
+    background-color: rgb(76, 134, 241);
+}
+
+
+
+.card-left {
+    background-color: rgb(76, 134, 241);
+    width: calc(100% / 4 - 10px); 
+    height: 300px;
+    margin-top: 10px;
+    float: left;
+    margin: 5px;
+}
+
+.card-center {
+    background-color: rgb(76, 134, 241);
+    width: calc(100% / 2 - 10px); 
+    height: 300px;
+    margin-top: 10px;
+    float: left;
+    margin: 5px;
+}
+
+.card-right {
+    background-color: rgb(76, 134, 241);
+    width: calc(100% / 4 - 10px);  
+    height: 300px;
+    margin-top: 10px;
+    float: left;
+    margin: 5px;
+    right: 0;
+}
+
+footer {
+    height: 80px;
+    background-color: violet;
+    margin: 50px;
+}
